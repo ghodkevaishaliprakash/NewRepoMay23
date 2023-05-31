@@ -1,0 +1,48 @@
+7. Now, create one folder with the name Assignment. And add the following assignments to that folder.                                                                                      
+
+  1. Capture a screenshot of your Git bash commands that you have used
+  2. Answers the following git commands and add the file into the folder
+--------------------------------------------------------------------------------------------------------------------------                  
+ - Provide commands for below operation
+------------------------------------------------------------------------
+1. Command to initialize git repository
+Answer :-git init
+------------------------------------------------------------------------
+2. Command to clone remote repository 
+Answer :-git Clone <repository URL>
+------------------------------------------------------------------------
+3. Command to stage all changes
+Answer :-git add.
+------------------------------------------------------------------------
+4. Command to view state of working directory and staging area 
+Answer :-git status
+------------------------------------------------------------------------
+5. Command to create new branch 
+Answer :-git branch new_brach_name
+------------------------------------------------------------------------
+6. Command to change branch
+Answer :-git checkout branch_name
+------------------------------------------------------------------------
+7. Command to clean staging area 
+Answer :-git reset
+------------------------------------------------------------------------
+8. Command to get commits and changes from remote branch (It should not merge changes in current branch).
+Answer:-git pull
+------------------------------------------------------------------------
+9.Command to get commits and changes from remote branch (It should merge changes in current branch).
+Answer :-git push 
+------------------------------------------------------------------------
+10. Command to cherry pick commit which SHA => 092018283103810930
+Answer :-git cherry-pick 092018283103810930
+------------------------------------------------------------------------
+11. Command to push branch
+Answer :-git push -u origin branch_name
+------------------------------------------------------------------------
+12. Command to delete remote branch 
+Answer :-git branch-d branch_name
+git branch -D branch_name
+------------------------------------------------------------------------
+13. Command to do iterative rebase
+Answer :-git rebase branchname 
+------------------------------------------------------------------------
+
