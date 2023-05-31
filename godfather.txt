@@ -1,1 +1,2 @@
-Keep your friends close, but your enemies closer.
+Keep your friends close, but your enemies closer. -> Keep your enemies close,          but your friends distant.
+
